@@ -1,0 +1,16 @@
+{
+  "optimal_pct": 90.409887359199,
+  "optimal_profit": 881.950405190074,
+  "spray_and_pray_profit": 871.5999999999999,
+  "random_profit_at_optimal": 806.4698363477653,
+  "improvement_vs_spray": 10.35040519007407,
+  "improvement_vs_random": 75.48056884230868,
+  "d8_profit": 261.2526827079696,
+  "d8_lift": 1.2157773074409668,
+  "d9_profit": -52.14910120659938,
+  "d9_lift": 0.23639497660674705,
+  "d9_control_rate": 1.2903225806451613,
+  "email_cost": 0.1,
+  "profit_margin": 25.0,
+  "test_set_size": 12784
+}

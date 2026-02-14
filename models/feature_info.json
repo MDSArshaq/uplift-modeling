@@ -1,0 +1,28 @@
+{
+  "feature_cols": [
+    "recency",
+    "history",
+    "mens",
+    "womens",
+    "newbie",
+    "zip_code_Surburban",
+    "zip_code_Urban",
+    "channel_Phone",
+    "channel_Web"
+  ],
+  "numeric_features": [
+    "recency",
+    "history"
+  ],
+  "binary_features": [
+    "mens",
+    "womens",
+    "newbie"
+  ],
+  "categorical_features": [
+    "zip_code",
+    "channel"
+  ],
+  "outcome_col": "conversion",
+  "treatment_col": "treated"
+}
