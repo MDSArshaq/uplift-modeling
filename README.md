@@ -4,7 +4,7 @@
 
 An end-to-end uplift modeling project that goes beyond model accuracy to address **model calibration, business simulation, and human-in-the-loop auditing** — built on the Hillstrom Email Marketing dataset.
 
-**[Try the Interactive App](https://persuadable-hunter.streamlit.app)** *(Streamlit Cloud)*
+**[Try the Interactive App](https://uplift-modeling-h3ctl3jucjpqdnd6ulmewc.streamlit.app/)** *(Streamlit Cloud)*
 
 ---
 

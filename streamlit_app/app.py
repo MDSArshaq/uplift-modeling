@@ -208,8 +208,7 @@ def main():
         st.markdown(f"### ${before_result['profit']:,.0f}")
     
     with impact_cols[1]:
-        st.markdown("##### ✂️ After (Portfolio Surgery)")
-        color = "profit-positive" if after_result['profit'] >= before_result['profit'] else "profit-negative"
+        st.markdown("##### After (Portfolio Surgery)")
         st.markdown(f"### ${after_result['profit']:,.0f}")
     
     with impact_cols[2]:

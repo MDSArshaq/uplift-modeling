@@ -3,7 +3,6 @@ Chart utilities for the Model Auditor Streamlit app.
 Creates Plotly charts for ROI curves and decile profitability.
 """
 import plotly.graph_objects as go
-import plotly.express as px
 import pandas as pd
 
 
